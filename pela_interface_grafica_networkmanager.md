@@ -1,3 +1,3 @@
 ## Pela interface Gráfica (NetworkManager)
 
-![](./images/network1.png)
+![](images/network1.png)
