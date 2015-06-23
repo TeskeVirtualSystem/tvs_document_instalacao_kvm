@@ -1,0 +1,1 @@
+## Pela interface Gráfica (NetworkManager)
