@@ -39,4 +39,6 @@ eth1      Link encap:Ethernet  Endereço de HW 00:1e:67:c9:f0:79
 
 Neste caso a rede está conectada no dispositivo **eth0**.
 
-### Pelo termina ( Apenas com cabo conectado na interface )
+### Pelo terminal ( Apenas com cabo conectado na interface )
+
+Há a possibilidade de achar qual o conec
