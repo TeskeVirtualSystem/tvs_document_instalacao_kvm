@@ -1,3 +1,7 @@
 ## Pela interface Gráfica (NetworkManager)
 
-![](images/network1.png)
+Este é outro método simples. Para ver qual o dispositivo pela interface gráfica
+conecte o cabo na interface desejada, e vá no **ícone de rede** na barra superior,
+e em **Informações da Conexão**
+
+![Informações da Conexão](images/network1.png)
