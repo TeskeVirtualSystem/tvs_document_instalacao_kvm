@@ -106,6 +106,7 @@ Settings for eth0:
      Current message level: 0x00000007 (7)
                       drv probe link
      Link detected: yes
+
 root@root-server:~# ethtool eth1
 Settings for eth1:
      Supported ports: [ TP ]
