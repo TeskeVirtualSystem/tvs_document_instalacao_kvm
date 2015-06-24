@@ -11,3 +11,5 @@ Certifique-se também de o `Device Model` estar em **e1000** para que máquinas
 Windows possam ser instaladas normalmente. Para máquinas linux a melhor 
 performance fica na opção **VirtIO** (após a instalação do Windows também
 é possível ativar o modo **VirtIO** com a instalação dos drivers do KVM)
+
+![Virt Manager - Rede](images/virt-manager11.png)
