@@ -13,5 +13,5 @@
    * [Iniciar a máquina no boot](iniciar_a_maquina_no_boot.md)
    * [Configurando placa de Rede](configurando_placa_de_rede.md)
    * [Configurações de Vídeo / Acesso](configuracoes_de_video__acesso.md)
-   * Rodando a máquina
+   * [Rodando a máquina](rodando_a_maquina.md)
 
