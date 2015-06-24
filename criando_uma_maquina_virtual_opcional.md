@@ -15,3 +15,4 @@ Selecione a opção `localhost (QEMU)` e clique no botão esquerdo superior
 para criar uma nova máquina virtual.
 
 ![Virt Manager](images/virt-manager1.png)
+
