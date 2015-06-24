@@ -1,4 +1,4 @@
-# Sumário
+# Summary
 
 * [Introdução](README.md)
 * [Instalando KVM e Libvirt](instalando-kvm-e-libvirtmd.md)
@@ -14,4 +14,5 @@
    * [Configurações de Vídeo / Acesso](configuracoes_de_video__acesso.md)
    * [Rodando a máquina](rodando_a_maquina.md)
    * [Criando Pasta Alternativa de Imagens de Disco](criando_pasta_alternativa_de_imagens_de_disco.md)
+   * Adicionando dispositivos USB
 
