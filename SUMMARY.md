@@ -10,4 +10,5 @@
 * [Criando uma máquina virtual](criando_uma_maquina_virtual_opcional.md)
    * [Configurando CPUs](configurando_cpus.md)
    * [Criando Pasta Alternativa de Imagens de Disco](criando_pasta_alternativa_de_imagens_de_disco.md)
+   * Iniciar a máquina no boot
 
