@@ -8,5 +8,5 @@
    * [Pela interface gráfica (NetworkManager)](pela_interface_grafica_networkmanager.md)
    * [Configurando a Ponte de Rede](configurando_a_ponte_de_rede.md)
 * [Criando uma máquina virtual (Opcional)](criando_uma_maquina_virtual_opcional.md)
-   * Criando Pasta Alternativa de Imagens de Disco
+   * [Criando Pasta Alternativa de Imagens de Disco](criando_pasta_alternativa_de_imagens_de_disco.md)
 
