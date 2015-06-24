@@ -36,3 +36,7 @@ embora sejam possíveis (overcommit).
 Selecione aqui se deseja criar um novo disco ou se deseja selecionar
 um disco existe. Se deseja criar o disco em um lugar não padrão, veja 
 a seção [Criando Pasta Alternativa de Imagens de Disco](criando_pasta_alternativa_de_imagens_de_disco.md).
+
+![Virt Manager - Final](images/virt-manager5.png)
+
+Preencha o nome da sua nova máquina e selecione a opção `Customize configuration before install`.
