@@ -36,3 +36,15 @@ normalmente. Após isso ele deve aparecer no seu novo **Storage Pool**
 
 
 ![Virt Manager - Imagem Criada](images/virt-manager20.png)
+
+Para adicionar a imagem recém criada a uma máquina virtual abra as
+configurações da máquina virtual e selecione `Add Hardware`.
+
+![Virt Manager - Adicionar Disco](images/virt-manager21.png)
+
+Selecione a opção `Storage`, selecione `Selecione managed ou outro
+armazenamento disponível` e clique em `Navegar`
+
+![Virt Manager - Selecionar Imagem](images/virt-manager22.png)
+
+Selecione a imagem e clique em `Choose Volume`
