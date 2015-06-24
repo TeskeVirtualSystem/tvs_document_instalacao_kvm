@@ -12,5 +12,5 @@
    * [Criando Pasta Alternativa de Imagens de Disco](criando_pasta_alternativa_de_imagens_de_disco.md)
    * [Iniciar a máquina no boot](iniciar_a_maquina_no_boot.md)
    * [Configurando placa de Rede](configurando_placa_de_rede.md)
-   * Configurações de Vídeo / Acesso
+   * [Configurações de Vídeo / Acesso](configuracoes_de_video__acesso.md)
 
