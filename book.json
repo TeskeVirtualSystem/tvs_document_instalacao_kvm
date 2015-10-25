@@ -1,7 +1,7 @@
 {
     "gitbook"   : ">=2.0.0",
     "title" : "Configuração do KVM (libvirt)",
-    "description" : "Como instalar e configurar o KVM com LibVIRT",
+    "description" : "Como instalar e configurar o KVM com LibVirt",
     "author" : "Lucas Teske",
     "public" : true,
     "language" : "pt" ,
